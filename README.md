@@ -1,4 +1,4 @@
-# Projects Fuego
+# Design Fuego
 
 This multimodal coding tool is a great way to break the ice at beginning of your school year. Why not use code to help your students introduce themselves and to process where they are on their journey through life? It's also an easy way for you to promote coding literacy, computational thinking, and computer science knowledge in your classroom.
 
@@ -10,7 +10,7 @@ This template also allows the user to mix and match div. blocks should students 
     
 ## Get started! 
 
-1. Go to the [Projects Fuego](https://github.com/sjquigley/Projects-Fuego) 
+1. Go to the [Design Fuego](https://github.com/sjquigley/Design-Fuego) 
 
 2. Click the green "Code" button, and then click "Download ZIP" to your local computer. 
 
