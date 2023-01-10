@@ -40,20 +40,20 @@ Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/
 
 
 
-### Atom (Mac)
+### Visual Studio Code (Mac)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
 1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
 1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a.
+1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
-### Atom (Windows)
+### Visual Studio Code (Windows)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
 1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
 1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a.
+1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Code Pad (Chromebook)
