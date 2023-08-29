@@ -16,7 +16,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. For Mac, Windows, and Linux, download and/or open a code editor like [Visual Studio Code](https://code.visualstudio.com/download) or any code editor of your choice. If you use a Chromebook O.S., we recommend Code Pad or Caret. You will find additional information below about optimizing your code editor to work with HTML and CSS.  
+4. For Mac, Windows, and Linux, download and/or open a code editor like [Visual Studio Code](https://code.visualstudio.com/download) or any code editor of your choice. If you use a Chromebook O.S., we recommend Code Pad or Caret. You will find additional information below about optimizing your code editor to work with HTML and CSS.
 
 5. Use the code editor to open the index.html and style.css files from your project folder.
 
@@ -30,7 +30,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
  
-Watch our [instructional video](https://youtu.be/cJiYas7B9Us) (Note: this video follows a different template using the same process.)
+Watch our [instructional video](https://youtu.be/FupjIP-iNGk) (Note: this video follows a different template using the same process.)
 
 
 Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
@@ -43,17 +43,17 @@ Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/
 ### Visual Studio Code (Mac)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
-1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
+1. Add HTML Preview - from the dropdown menu, select **Code>Preferences>Extension.**
+1. In the search bar type "**Live Preview**." Install.
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.  
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Visual Studio Code (Windows)
 
 1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
-1. Add HTML Preview - from the dropdown menu, select **View>Extension.**
+1. Add HTML Preview - - from the dropdown menu, select **Code>Preferences>Extension.**
 1. In the search bar type "**Live Preview**."
-1. In the right-had corner, select the "**show preview**" button to see a live version of your code.
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.
 1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Code Pad (Chromebook)
