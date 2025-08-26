@@ -10,7 +10,7 @@ This template also allows the user to mix and match div. blocks should students 
     
 ## Get started! 
 
-1. Go to the [Design Fuego](https://sjquigley.github.io/Design-Fuego/) 
+1. Go to the [Design Fuego](https://github.com/sjquigley/Design-Fuego) 
 
 2. Click the green "Code" button, and then click "Download ZIP" to your local computer. 
 
